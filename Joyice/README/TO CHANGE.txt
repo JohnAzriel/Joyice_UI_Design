@@ -1,0 +1,10 @@
+TO CHANGE
+
+app.config
+->imgFilePath
+->backupDBFilePath
+->ordersPDFpath
+->logoPDFPath
+
+Refer to yt link if problem arises
+https://www.youtube.com/watch?v=6vWTKOdHEp8
