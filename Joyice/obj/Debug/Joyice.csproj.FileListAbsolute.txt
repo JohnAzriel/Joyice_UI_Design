@@ -1,0 +1,102 @@
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Joyice.exe.config
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Joyice.exe
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Joyice.pdb
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.csproj.AssemblyReference.cache
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.login.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.Properties.Resources.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.csproj.GenerateResource.cache
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.csproj.CoreCompileInputs.cache
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.exe
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.pdb
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.homePageAdmin.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.userRegisterAdmin.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.ProductCategoryAdmin.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.AdminEditAccount.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Security.Permissions.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Security.Permissions.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.csproj.CopyComplete
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\ExCSS.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Fizzler.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\GumroadLicensing.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Svg.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Buffers.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Memory.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Fizzler.pdb
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\Svg.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Buffers.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Memory.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.adminHome.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.productsAdmin.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.homePageStaff.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.customerRegisterAdmin.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.customerOrdersStaff.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.printOrdersStaff.resources
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\itextsharp.dll
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\bin\Debug\itextsharp.xml
+C:\Users\Carlloyd Viray\source\repos\Joyice\Joyice\obj\Debug\Joyice.reportsAdmin.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Joyice.exe.config
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Joyice.exe
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Joyice.pdb
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\ExCSS.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Fizzler.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\GumroadLicensing.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\itextsharp.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Svg.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Buffers.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Memory.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Security.AccessControl.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Security.Permissions.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Fizzler.pdb
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\itextsharp.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\Svg.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Buffers.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Memory.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Security.AccessControl.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Security.Permissions.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.csproj.AssemblyReference.cache
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.csproj.SuggestedBindingRedirects.cache
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.AdminEditAccount.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.adminHome.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.customerOrdersStaff.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.customerRegisterAdmin.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.homePageAdmin.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.homePageStaff.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.login.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.printOrdersStaff.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.ProductCategoryAdmin.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.productsAdmin.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.Properties.Resources.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.reportsAdmin.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.userRegisterAdmin.resources
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.csproj.GenerateResource.cache
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.csproj.CoreCompileInputs.cache
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.csproj.CopyComplete
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.exe
+C:\Users\John Azriel Y. Perez\Source\Repos\Joyice\Joyice\obj\Debug\Joyice.pdb
